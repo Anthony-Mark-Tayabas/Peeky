@@ -1,0 +1,31 @@
+[Type and/or Issue ID]: Summarize the changes in less than 72 characters
+#--------------------------72 characters wide--------------------------#
+
+Because:
+ - Explain the reasons you made this change
+ - Make a new bullet '-' for each reason
+ - Each line should be under 72 characters
+
+Explain exactly what was done in this commit with more depth than the
+72 character subject line. Remember to wrap at 72 characters!
+
+Include additional notes or relevant links.
+
+#--------------------------72 characters wide--------------------------#
+
+# Subject line character count includes the type and issue ID and should
+# be in imperative, present tense: "change" not "changed" or "changes"
+#
+# Type describes the kind of change that this commit is providing.
+# Allowed types are:
+#
+#   * feat (feature)
+#   * fix (bug fix)
+#   * docs (documentation)
+#   * style (formatting, missing semicolons, ...)
+#   * refactor
+#   * test (when adding missing tests)
+#   * chore (maintain), e.g. updating API version
+#
+# Issue ID can be:
+#   * JIRA item (NAA/NIS-xxxx)
